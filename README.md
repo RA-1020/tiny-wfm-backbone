@@ -30,7 +30,7 @@ Two research tracks share this backbone:
 | B | ViT-tiny on CIFAR-10 (learning milestone) | Done |
 | C | RadioML → spectrogram pipeline | Done |
 | D | Centralized baseline on spectrograms | Done |
-| E | Sionna channel integration | Pending  |
+| E | Sionna channel integration | Done  |
 | F | Federation with Flower (FedAvg, non-IID) |  Next |
 | G | Shared metrics module | Planned |
 | H | Integrate, validate, freeze `backbone-v1` | Planned |
